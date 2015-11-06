@@ -6,6 +6,9 @@
     <string name="bem_vindo">Bem vindo ao Android!</string>
     <string name="dsv_por">Veronica Campos</string>   
     <string name="btn_ok">OK</string>   
-    <string name="btn_limpar">Limpar</string>  
+    <string name="btn_limpar">Limpar</string> 
+    <string name="img01">Login</string> 
+    <string name="txt_nome">Digite seu nome</string>
+    <string name="txt_senha">Digite sua senha</string>
 
 </resources>
